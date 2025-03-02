@@ -1,7 +1,13 @@
-sys
-os
+setuptools
 datetime
 logger
 pandas
 numpy
+scikit-learn
+xgboost
+joblib
+flask
+flask-cors
+flask-restful
+
 -e .
